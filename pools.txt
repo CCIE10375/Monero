@@ -1,0 +1,13 @@
+"pool_list" :
+[
+ {"pool_address" : "pool.supportxmr.com:3333",
+  "wallet_address" : "477ipLNoEHs6ZtBV59qXAg7xtx7crMAJiNqmdp1DakU38n4s1Rj1TLv2m2rKiWnhcYFw9ubWu58vb4pDQrrCrsUsEUykBLH",
+  "rig_id" : "AzureBatch",
+  "pool_password" : "x",
+  "use_nicehash" : false,
+  "use_tls" : false,
+  "tls_fingerprint" : "",
+   "pool_weight" : 1
+ },
+],
+"currency" : "monero7",
